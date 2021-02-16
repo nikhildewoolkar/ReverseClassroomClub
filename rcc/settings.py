@@ -149,4 +149,4 @@ EMAIL_HOST = 'smtp.gmail.com'
 EMAIL_USE_TLS = True
 EMAIL_PORT = 587
 EMAIL_HOST_USER = 'quadrubalsquad29@gmail.com'
-EMAIL_HOST_PASSWORD = '5v4w3x2y1z'
+EMAIL_HOST_PASSWORD = 
